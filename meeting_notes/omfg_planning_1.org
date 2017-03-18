@@ -1,0 +1,32 @@
+#+TITLE: OMFG PLANNING SESSION 1 
+
+* Challenges 
+
+** ELife 
+ 
+- Make Science Collaboration Easier! 
+
+** Accelerate Places
+
+ - Fake News! 
+ - Google Chrome - Plugin to use wisdom of the crowds to assess truthyness of sources. 
+
+* If You Tolerate Gibhub then Your Children Will Be Next
+
+
+  - Make Git Easier! 
+  - Plain text for the win! 
+
+  - Web service with endpoints into own cloud which connects to a git repository.
+    - Break the file down into Markdown  
+    - Work in markdown and convert to docx, odt, etc. 
+
+  - Owncloud to github
+   
+* Tasks! 
+  1. Research Owncloud API and infrastructure (Will)
+     - Setup infrastructure, etc. 
+  2. Web application for users/teams (Chris/Lewis)
+  3. Gibhub/ Git*/ Bitbucket/Whatever Intergration (Chris/Lewis)
+  4. Flask pandoc service (Will/LKB)
+  5. Pandoc templates and magic (LKB)
